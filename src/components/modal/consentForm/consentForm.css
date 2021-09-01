@@ -1,0 +1,23 @@
+.consentModal {
+  border-radius: 20px;
+}
+.consentModal .title {
+  font: 40px poppinsSb;
+}
+.consentModal .text {
+  color: var(--colorBlack2);
+  font: 16px poppins;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.consentModal .pTitle {
+  font: 22px poppins;
+}
+.consentModal .content {
+  padding: 20px 30px;
+  max-height: 400px;
+  overflow: auto;
+}
+.consentModal .content .text {
+  text-align: left;
+}
