@@ -1,0 +1,18 @@
+.center-line {
+  border: 0.5px solid #ababab;
+  transform: rotate(90deg);
+}
+.logo-login {
+  width: "175px";
+  height: "167.31px";
+}
+.line-login {
+  border-left: "1px solid black";
+  height: "60%";
+}
+.div1-login {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  height: "100%";
+}

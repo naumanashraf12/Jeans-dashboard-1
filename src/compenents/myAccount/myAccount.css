@@ -1,0 +1,66 @@
+.profile-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  display: flex;
+  align-items: center;
+
+  /* 6/3 */
+  color: #01676b;
+  display: inline-block;
+  margin-left: 6px;
+  margin-bottom: 0;
+}
+.date {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  /* 2/color Dark */
+  color: #342e1b;
+
+  opacity: 0.7;
+  display: block;
+}
+.acc-btn {
+  display: block;
+  background-color: white;
+  border: solid 1px #00028c;
+  color: #00028c;
+  border-radius: 1rem;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.acc-btn2 {
+  margin-top: 5px;
+  width: 100%;
+  background-color: #d7e1e8;
+  color: #00028c;
+  border: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  border-radius: 1rem;
+
+  text-align: center;
+}
+.acc-title {
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  margin-left: 1rem;
+  color: #01676b;
+}
